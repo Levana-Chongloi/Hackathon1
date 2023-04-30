@@ -1,0 +1,212 @@
+body,
+  html {
+    height: 100%
+     }
+
+body,
+   h1,
+   h2,
+   h3,
+   h4,
+   h5,
+   h6 {
+        font-family: "Amatic SC", sans-serif
+      }
+
+.menu {
+    display: none
+  }
+
+.bgimg {
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-image: url("pizza.jpg");
+     min-height: 90%;
+ }
+
+ #myNavbar{
+    font-size:xx-large;
+    padding: 10px;
+    font-weight: bold;
+    background-color: rgb(210, 242, 163);
+    float: center;
+    
+ }
+
+ #myNavbar a:hover {
+    color: red; 
+  }
+
+  #myNavbar a{
+    text-decoration: none;
+    color: black;
+    padding-left: 15px;
+  }
+
+  header .time{
+    font-size:x-large;
+    font-weight:bold;
+    margin-left: 45%;
+    color: rgb(29, 4, 76);
+    background-color: aliceblue;
+
+  }
+
+  .logo{
+    font-size: xx-large;
+    color: rgb(4, 76, 4);
+    font-weight: bolder;
+    text-decoration: none;
+
+  }
+
+  #logo-image{
+    margin-left: 43%;
+  }
+      
+  .text-home{
+    color: rgb(3, 119, 27);
+    border-color: blanchedalmond;
+ 
+  }
+
+  #menu{
+    background-color: black;
+    border-width: 150px;
+
+  }
+
+  .menu-home{
+    font-size:xx-large;
+    font-weight: bolder;
+    color: rgb(11, 112, 52);
+    margin-left: 5%;
+    text-decoration: none;
+    background-color: azure;
+  }
+
+.main-menu a{
+    display: inline-block;
+    text-decoration: none;
+    margin-left: 2%;
+    font-size: xx-large;
+    color: white;
+    background-color: black;
+    width: 200px;
+    padding: 0;
+    text-align: center;
+    border-color: red;
+    
+}
+
+.main-menu a:hover{
+ background-color: red;
+}
+
+#Pizza{
+    margin-left: 2%;
+    background-color: white;
+    width: 260px;
+    color: black;
+}
+
+#Pasta{
+    margin-left: 30%;
+    background-color: white;
+    width: 260px;
+    color: black;
+}
+
+#Starter{
+    margin-left: 60%;
+    background-color: white;
+    width: 260px;
+    color: black;
+}
+
+.the-menu{
+    margin-left: 40%;
+    color: white;
+    font-size: xx-large;
+    padding-top: 20px;
+   
+}
+
+#about{
+    background-color: rgb(165, 63, 63);
+}
+
+.about-head{
+    text-align: center;
+    font-size: xx-large;
+    font-weight: bolder;
+    padding-top: 20px;
+
+}
+
+.content {
+    width: 700px;
+    margin-left: 20%;
+    font-size: larger;
+    color: white;
+}
+
+#chef-image{
+    border-radius: 50%;
+    margin-left: 40%;
+}
+
+#chef-des{
+    margin-left: 40%;
+}
+
+.content-form{
+    background-color: rgb(165, 163, 163);
+    font-size: large;
+    font-weight: bold;
+   
+}
+
+.content-form p{
+    margin-left: 20%;
+}
+
+input{
+    width: 500px;
+    height: 50px;
+}
+
+.contact-main{
+    margin-left: 30%;
+    padding-top: 10px;
+}
+
+button{
+    width: 200px;
+    height: 50px;
+}
+
+#footer{
+   height: 50px;
+   text-align: center;
+   font-weight: bolder;
+}
+
+
+
+
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
